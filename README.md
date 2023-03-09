@@ -1,2 +1,1 @@
-# ribin-leetcode
-leetcode做题记录代码
+用来记录算法学习
